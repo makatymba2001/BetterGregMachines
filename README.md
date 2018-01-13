@@ -1,2 +1,2 @@
 #  Го чекнем
-# https://i.imgur.com/FQxm1fT.jpg
+![Alt text](//placehold.it/150x100)](https://i.imgur.com/FQxm1fT.jpg)
