@@ -1,2 +1,2 @@
 #  Го чекнем
-# https://i.imgur.com/FQxm1fT.jpg
+![Alt text](https://i.imgur.com/23zG7RB.gif)
